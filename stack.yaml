@@ -28,3 +28,5 @@ flags:
   # https://github.com/RyanGlScott/mintty/issues/4
   mintty:
     Win32-2-13-1: false
+  dhall:
+    with-http: false
